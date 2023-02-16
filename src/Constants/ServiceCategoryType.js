@@ -1,0 +1,30 @@
+const serviceCategoryType =  {
+    BIKE: 1,
+    RIDES: 2,
+    FOOD_DELIVERY: 38,
+    COUPONS: 3,
+    FOOD: 4,
+    DOG_WALKER: 5,
+    BEEDA_MALL: 6,
+    GROCERY: 8,
+    PHARMACY: 9,
+    LIQUOR: 10,
+    WATER: 11,
+    COURIER: 19,
+    GAS: 20,
+    BEAUTY: 21,
+    TRAVEL: 22,
+    FARMERS: 24,
+    DIGITAL_CARDS: 25,
+    FLOWER: 26,
+    NFT: 27,
+    SPA: 28,
+    TASKER: 29,
+    BUSINESS_CARD: 32,
+    CAR_SALES: 33,
+    REAL_ESTATE: 34,
+    EXPRESS: 35,
+    ALL: 'all'
+};
+
+export default serviceCategoryType;
